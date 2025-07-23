@@ -32,7 +32,7 @@ Welcome to the intersection of software engineering, existentialist.
 
 ### 🛼 When not coding...
 - I’m probably **roller skating into the void**,  
-- Or lost in a book on **psychology & human behavior**.
+- Or lost somewhere in philosophizing**.
 
 ---
 
