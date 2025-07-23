@@ -9,8 +9,8 @@
 
 ---
 
-🧠 **I philosophize, therefore I code.**  
-Welcome to the intersection of software engineering, existentialist.
+> `~$ whoami`  
+> I code, therefore I am.
 
 ### 🛠 What I Build With
 - **Languages:** Kotlin | Dart 
@@ -29,6 +29,7 @@ Welcome to the intersection of software engineering, existentialist.
 - 🧪 Clean Architecture devotee
 
 ---
+
 
 ### 🛼 When not coding...
 - I’m probably **roller skating into the void**,  
