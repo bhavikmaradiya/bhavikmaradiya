@@ -43,6 +43,6 @@
 
 ### 📬 Let's connect:
 - 🧠 [Medium](https://medium.com/@yourusername) – for technical & philosophical ramblings  
-- 💬 [Twitter/X](https://twitter.com/yourusername) – where code meets meaning  
+- 💬 [Twitter/X](https://twitter.com/wroteitanyway) – where code meets meaning  
 - 🌐 [Portfolio/Website](https://yourwebsite.com) (if applicable)
 
