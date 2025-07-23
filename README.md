@@ -15,7 +15,7 @@ Welcome to the intersection of software engineering, existentialist.
 ### 🛠 What I Build With
 - **Languages:** Kotlin | Dart 
 - **Frameworks:** Jetpack Compose | Flutter | Ktor
-- **Tools I vibe with:** Android Studio, Melos, Firebase, GitHub Actions, Isar, GraphQL
+- **Tools I vibe with:** Android Studio, Intellij IDEA, Warp
 
 ### 🧭 What Guides Me
 - Jean-Paul Sartre, Nietzsche, Camus
@@ -26,7 +26,7 @@ Welcome to the intersection of software engineering, existentialist.
 - 📱 Android & Flutter Apps  
 - 🌐 Backend APIs with Ktor  
 - 🔁 Synchronization engines, real-time tracking, and offline-first design  
-- 🧪 Clean Architecture & TDD devotee
+- 🧪 Clean Architecture devotee
 
 ---
 
