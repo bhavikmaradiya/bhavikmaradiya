@@ -10,7 +10,7 @@
 ---
 
 🧠 **I philosophize, therefore I code.**  
-Welcome to the intersection of software engineering, existential philosophy, and curiosity about the human mind.
+Welcome to the intersection of software engineering, existentialist.
 
 ### 🛠 What I Build With
 - **Languages:** Kotlin | Dart 
