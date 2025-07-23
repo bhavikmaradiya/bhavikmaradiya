@@ -6,14 +6,10 @@
   </em>
 </p>
 
-╔════════════════════════════════════╗
-║   I code, therefore I overcome.   ║
-╚════════════════════════════════════╝
-
 
 ---
 
-🧠 **I think, therefore I code.**  
+🧠 **I philosophize, therefore I code.**  
 Welcome to the intersection of software engineering, existential philosophy, and curiosity about the human mind.
 
 ### 🛠 What I Build With
