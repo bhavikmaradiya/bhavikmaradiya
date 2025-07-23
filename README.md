@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    Turning entropy into order — one function at a time.
+    Turning chaos into code — one function at a time.
   </em>
 </p>
 
