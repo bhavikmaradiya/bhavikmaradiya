@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    Turning chaos into code — one function at a time.
+    Turning chaos into code — void into meaning.
   </em>
 </p>
 
