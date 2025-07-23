@@ -12,7 +12,7 @@
 Welcome to the intersection of software engineering, existential philosophy, and curiosity about the human mind.
 
 ### 🛠 What I Build With
-- **Languages:** Kotlin | Dart | JavaScript (when needed)
+- **Languages:** Kotlin | Dart 
 - **Frameworks:** Jetpack Compose | Flutter | Ktor
 - **Tools I vibe with:** Android Studio, Melos, Firebase, GitHub Actions, Isar, GraphQL
 
