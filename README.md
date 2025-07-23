@@ -18,15 +18,15 @@
 - **Tools I vibe with:** Android Studio, Intellij IDEA, Warp
 
 ### 🧭 What Guides Me
-- Jean-Paul Sartre, Nietzsche, Camus
+- Kafka, Nietzsche, Camus
 - Code is absurd — we give it meaning.
-- Resisting the heat death of the mind, with one more `sealed class`.
+- Resisting entropy of the mind, with one more `Scaffold`.
 
 ### 🌀 Projects are my playground:
-- 📱 Android & Flutter Apps  
+- 📱 Composing Android & Flutter Apps  
 - 🌐 Backend APIs with Ktor  
 - 🔁 Synchronization engines, real-time tracking, and offline-first design  
-- 🧪 Clean Architecture devotee
+- 🧪 Clean Architecture, MVI
 
 ---
 
