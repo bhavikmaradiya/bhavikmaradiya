@@ -13,7 +13,7 @@
 
 <p>
   I’m building <strong>Firebae</strong>, a full-fledged sidechick for Firebase projects that simplifies setup and syncing across both single and multi-module Flutter apps (with Melos support), all integrated seamlessly into your IDE.  
-  <br>Submit your email to <a href="[Your Signup Link]" target="_blank">register for early access</a> and get exclusive updates!
+  <br>Submit your email to <a href="https://tinyurl.com/3byakwzr" target="_blank">register for early access</a> and get exclusive updates!
 </p>
 
 > `~$ whoami`  
